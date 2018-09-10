@@ -1,0 +1,10 @@
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\Vidly\Vidly\bin\Debug\netcoreapp1.1\Vidly.deps.json
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\Vidly\Vidly\bin\Debug\netcoreapp1.1\Vidly.runtimeconfig.json
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\Vidly\Vidly\bin\Debug\netcoreapp1.1\Vidly.runtimeconfig.dev.json
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\Vidly\Vidly\bin\Debug\netcoreapp1.1\Vidly.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\Vidly\Vidly\bin\Debug\netcoreapp1.1\Vidly.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\Vidly\Vidly\obj\Debug\netcoreapp1.1\Vidly.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\Vidly\Vidly\obj\Debug\netcoreapp1.1\UserSecretsAssemblyInfo.cs
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\Vidly\Vidly\obj\Debug\netcoreapp1.1\Vidly.AssemblyInfo.cs
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\Vidly\Vidly\obj\Debug\netcoreapp1.1\Vidly.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\Vidly\Vidly\obj\Debug\netcoreapp1.1\Vidly.pdb
